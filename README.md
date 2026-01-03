@@ -178,10 +178,10 @@ B2B wholesale supplement distribution platform with tiered pricing & bulk orderi
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** [Portfolio Presentation](./portfolio.html)
-- **LinkedIn:** [linkedin.com/in/ajay-sagar](https://linkedin.com/in/ajay-sagar)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Upwork:** [Shopify Developer Profile](https://upwork.com)
+- **Portfolio:** [Portfolio Presentation](https://portfolio-fg6iozwyh-ajjudevs-projects.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/ajay-sagar](https://www.linkedin.com/in/ajaysagarbaghel/)
+- **Email:** [ajaysagarbaghel@gmail.com](mailto:ajaysagarbaghel@gmail.com)
+- **Mobile Number:** +91 7428903767
 
 ---
 
@@ -192,13 +192,3 @@ Currently open to:
 - **Tech Lead positions** with mentoring opportunities
 - **Shopify Plus specialization projects**
 - **High-impact performance optimization engagements**
-
----
-
-## 📝 License
-
-This portfolio is for professional demonstration purposes.
-
----
-
-**Last Updated:** January 2026 | [View Full Portfolio](./portfolio.html)
