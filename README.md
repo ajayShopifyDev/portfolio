@@ -178,7 +178,7 @@ B2B wholesale supplement distribution platform with tiered pricing & bulk orderi
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** [Portfolio Presentation](https://portfolio-fg6iozwyh-ajjudevs-projects.vercel.app/)
+- **Portfolio:** [Portfolio Presentation](https://portfolio-rosy-eight-70.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/ajay-sagar](https://www.linkedin.com/in/ajaysagarbaghel/)
 - **Email:** [ajaysagarbaghel@gmail.com](mailto:ajaysagarbaghel@gmail.com)
 - **Mobile Number:** +91 7428903767
